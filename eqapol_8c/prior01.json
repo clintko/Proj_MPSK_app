@@ -1,0 +1,8 @@
+{
+    "zeta":     1, 
+    "npart":    10, 
+    "nburn":    20, 
+    "nsave":    50, 
+    "nskip":    1, 
+    "ndisplay": 1
+}
